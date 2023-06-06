@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhi-ee
-- 👀 I’m interested in ...Gates,Verilog,
+- 👀 I’m interested in ...Data Structure , Problem Solving,Flutter,
 - 🌱 I’m currently learning ...Electronics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Web Devlopment
 - 📫 How to reach me ...
 
 <!---
